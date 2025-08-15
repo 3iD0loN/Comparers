@@ -260,8 +260,8 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.usp.propertycomparer": {
-      "version": "file:com.usp.propertycomparer",
+    "com.usp.comparers": {
+      "version": "file:com.usp.comparers",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
