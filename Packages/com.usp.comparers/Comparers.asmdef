@@ -1,9 +1,7 @@
 {
     "name": "Comparers",
-    "rootNamespace": "",
-    "references": [
-        "GUID:9515f379d48dffc4cb6ac245d0b09811"
-    ],
+    "rootNamespace": "USP.Comparers",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [
         "Android",
